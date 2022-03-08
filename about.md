@@ -12,4 +12,4 @@ Eu sou o Edwin desde que sou gente percebi que sou diferente. Nasci na pequena c
 
 ### Meu contato
 
-[email@domain.com](mailto:edwin@mayr.cl)
+[edwin@mayr.cl](mailto:edwin@mayr.cl)
